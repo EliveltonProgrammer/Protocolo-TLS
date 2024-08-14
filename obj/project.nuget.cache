@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "42paky5QjXycnoMmehbihKoENl31U9MvPuK6ATiaT7l7A3ad9TRNRvfv0JQzdWnW2uJodYcgl1Pgjrhb3tiApQ==",
+  "success": true,
+  "projectFilePath": "C:\\Elivelton\\Desenvolvimento\\Visual Studio\\C#\\GerProtocol\\GerProtocol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Elivelton.Erika\\.nuget\\packages\\system.directoryservices.protocols\\6.0.1\\system.directoryservices.protocols.6.0.1.nupkg.sha512",
+    "C:\\Users\\Elivelton.Erika\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
